@@ -8,7 +8,8 @@ namespace Ex03.GarageLogic
     {
         private eAmountOfDoors m_CarDoors;
         private eColorOfTheCar m_CarColor;
-        public ElectricCar(Enum i_CarDoors, Enum i_CarColor, float i_BatteryTimeRemainingInHours, float i_MaximumBatteryTimeInHours, string i_ModelName, string i_Licensing) : 
+
+        internal ElectricCar(Enum i_CarDoors, Enum i_CarColor, float i_BatteryTimeRemainingInHours, float i_MaximumBatteryTimeInHours, string i_ModelName, string i_Licensing) : 
             base(i_BatteryTimeRemainingInHours, i_MaximumBatteryTimeInHours, i_ModelName, i_Licensing)
         {
             m_CarDoors = (eAmountOfDoors)i_CarDoors;
@@ -20,7 +21,7 @@ namespace Ex03.GarageLogic
             BatteryTimeRemainingInHours += i_HoursToAdd;
         }
 
-        ////Properties:
+        ////Properties
         public eAmountOfDoors CarDoors
         {
             get

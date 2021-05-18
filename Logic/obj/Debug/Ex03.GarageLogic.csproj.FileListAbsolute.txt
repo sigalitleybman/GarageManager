@@ -1,0 +1,6 @@
+C:\Users\97254\GitProjects\GarageManager\GarageManager\Logic\bin\Debug\Logic.dll
+C:\Users\97254\GitProjects\GarageManager\GarageManager\Logic\bin\Debug\Logic.pdb
+C:\Users\97254\GitProjects\GarageManager\GarageManager\Logic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\97254\GitProjects\GarageManager\GarageManager\Logic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\97254\GitProjects\GarageManager\GarageManager\Logic\obj\Debug\Logic.dll
+C:\Users\97254\GitProjects\GarageManager\GarageManager\Logic\obj\Debug\Logic.pdb
